@@ -7,7 +7,7 @@
 
 # Welcome!
 
-## I'm (Vitor Oliveira)! 
+## I'm (JOÃO VITOR DA SILVA OLIVEIRA)! 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg ">
  
 
@@ -46,7 +46,7 @@
 
 👨 Social
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100045170107503)](https://www.facebook.com/profile.php?id=100045170107503)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oliveirahs.98)](https://www.instagram.com/oliveirahs.98)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)](https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)  [![XDA_DEVBadge](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white&link=)]()  
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100045170107503)](https://www.facebook.com/profile.php?id=100045170107503)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oliveirahs.98)](https://www.instagram.com/oliveirahs.98)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-efy-72090a21b/)](https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-efy-72090a21b/)  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)  [![XDA_DEVBadge](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white&link=)]()  
 
 💻 Terminal
 
@@ -57,9 +57,9 @@
 [![Brave Badge](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white&link=https://brave.com/)](https://brave.com/)  [![Firefox Badge](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&link=https://www.mozilla.org/en-US/firefox/new/)](https://www.mozilla.org/en-US/firefox/new/)  [![Google Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://www.google.com.br/)](https://www.google.com.br/)  [![Tor Badge](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white&link=https://www.torproject.org/)](https://www.torproject.org/)
 
 <div>
-<a href="https://github.com/OliveiraHackerSecurity">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHackerSecurity&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/EfyOliveira/EfyOliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfyOliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EfyOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 - Thanks for visiting o/
