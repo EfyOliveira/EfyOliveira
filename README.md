@@ -19,7 +19,7 @@
 
 :outbox_tray: 2022 Goals: Improve my living conditions.
 
-![](https://komarev.com/ghpvc/?username=OliveiraHackerSecurity&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=EfyOliveira&style=for-the-badge)
 
 ## About me  
 
