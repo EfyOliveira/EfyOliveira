@@ -17,7 +17,7 @@
 
 :books: Working on Bug Bounty.
 
-:outbox_tray: 2022 Goals: Improve my living conditions.
+:outbox_tray: 2023 Goals: Improve my living conditions.
 
 ![](https://komarev.com/ghpvc/?username=EfyOliveira&style=for-the-badge)
 
